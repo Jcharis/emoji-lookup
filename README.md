@@ -9,7 +9,7 @@ Emoji Lookup App with Streamlit
 + Sentiment Table
 
 #### Check it out
-[emoji-lookup](https://emojilookup.herokuapp.com/)
+[emoji-lookup](https://emoji-lookup-st.herokuapp.com/)
 
 #### By
 + Jesse E.Agbe(JCharis)
