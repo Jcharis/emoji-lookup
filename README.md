@@ -7,6 +7,7 @@ Emoji Lookup App with Streamlit
 + Unicode to Emoji 
 + Emoji to Unicode
 + Sentiment Table
++ More features
 
 #### Check it out
 [emoji-lookup](https://emoji-lookup-st.herokuapp.com/)
